@@ -1,4 +1,4 @@
-# Download: 
+# Direct Download
 ```bash
 git clone https://huggingface.co/Neurazum/bai-Mind-8
 ```
