@@ -1,3 +1,6 @@
+# Download: ```bash
+git clone https://huggingface.co/Neurazum/bai-Mind-8```
+
 # bai-Mind-8 Models
 
 ## Definition
